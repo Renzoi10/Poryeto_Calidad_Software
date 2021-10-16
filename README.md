@@ -31,3 +31,11 @@ Link: [YouTube](https://www.youtube.com/)
 12. Administrar Compras y Membresías
 
 ![Youtube](https://user-images.githubusercontent.com/81272105/137568942-3d6e2f0c-5ce2-48d2-9693-05b10de64c02.JPG)
+Imagen Página Principal Youtube.
+
+![image](https://user-images.githubusercontent.com/81272105/137569018-e028b140-7c58-4c59-a84d-eb274b84c750.png)
+Subir video o Cargar video.
+
+![image](https://user-images.githubusercontent.com/81272105/137569076-46ba6274-aad1-4a4c-9702-036007365a4c.png)
+Inicio de Sesion.
+
