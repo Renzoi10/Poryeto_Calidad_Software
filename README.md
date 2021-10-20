@@ -72,7 +72,8 @@ Imagen Página Principal Youtube.
 ## CUS_Crear Canal
 ![image](https://user-images.githubusercontent.com/65270435/138018792-1e73df02-430a-4b54-a143-2da4cdbecf78.png)
 
-
+## CUS_Estadisticas dekl Canal
+![image](https://user-images.githubusercontent.com/65270435/138020654-494b63e9-8c5a-4eba-a8b5-cf064297360c.png)
 
 
 
