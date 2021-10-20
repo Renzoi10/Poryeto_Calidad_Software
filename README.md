@@ -63,6 +63,10 @@ Imagen Página Principal Youtube.
 ## CUS_Ver lista de videos que me gustan:
 ![image](https://user-images.githubusercontent.com/92272211/138014648-78271a26-b626-46e8-b539-225627626dfa.png)
 
+## CUS_Administrar compras y membresias:
+![image](https://user-images.githubusercontent.com/92272211/138014824-f6042e1a-ac99-4a82-a973-421cb7d1d52c.png)
+
+
 
 
 
