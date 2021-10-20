@@ -69,6 +69,8 @@ Imagen Página Principal Youtube.
 ## CUS_Denunciar video:
 ![image](https://user-images.githubusercontent.com/92272211/138014993-dc72e134-653a-4442-afd3-2953c652dd33.png)
 
+## CUS_Crear Canal
+![image](https://user-images.githubusercontent.com/65270435/138018792-1e73df02-430a-4b54-a143-2da4cdbecf78.png)
 
 
 
