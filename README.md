@@ -29,6 +29,7 @@ Imagen Página Principal Youtube.
 - ![image](https://user-images.githubusercontent.com/92272211/138011105-d0b9cc4e-6ada-465e-a4b5-14ba251e524c.png)
 
 7. Añadir Lista de Reproducción
+- ![image](https://user-images.githubusercontent.com/92272211/138011674-ca9eae6e-91e0-49d9-b7ba-182fde0638e9.png)
 
 8. Ver Historial de Videos
 - ![image](https://user-images.githubusercontent.com/92272211/138011275-7f1a6b47-67b3-42ae-bcbd-39e5e5ce448a.png)
