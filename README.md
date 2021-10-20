@@ -78,3 +78,12 @@ Imagen Página Principal Youtube.
 ## CUS_Ver histoerial de videos
 ![image](https://user-images.githubusercontent.com/65270435/138022071-5e14b241-a1df-4fbd-9117-e59b0e14893d.png)
 
+## CUS_Compartir Video
+![image](https://user-images.githubusercontent.com/65270365/138024843-ffbf93bd-a81f-4d51-b32f-887173ff1ab0.png)
+
+## CUS_Iniciar Sesion
+![image](https://user-images.githubusercontent.com/65270365/138025275-a58c4004-64f8-4457-918e-ac1c827b1730.png)
+
+## CUS_Añadir lista de reprouccion
+![image](https://user-images.githubusercontent.com/65270365/138025974-ff1b0824-e176-4679-a0ee-70345084518b.png)
+
