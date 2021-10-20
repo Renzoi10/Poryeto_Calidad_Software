@@ -60,8 +60,10 @@ Imagen Página Principal Youtube.
 ## CUS_Biblioteca:
 ![Caso de uso 3 Videos](https://user-images.githubusercontent.com/81272105/138013580-a1a8246b-9d9c-43f8-89de-15a16cb52041.JPG)
 
-## CUS_Administrar compras, Denunciar videos, Ver lista de videos que me gustan:
-![image](https://user-images.githubusercontent.com/92272211/138014273-87f01af8-8254-4894-aadb-997dfa37f869.png)
+## CUS_Ver lista de videos que me gustan:
+![image](https://user-images.githubusercontent.com/92272211/138014648-78271a26-b626-46e8-b539-225627626dfa.png)
+
+
 
 
 
