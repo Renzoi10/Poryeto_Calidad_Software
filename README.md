@@ -50,3 +50,7 @@ Imagen Página Principal Youtube.
 
 ## Casos de uso:
 ![image](https://user-images.githubusercontent.com/92272211/138010403-f598e210-538c-46fb-8113-7cc35f23a63d.png)
+
+## Administracion de Videos:
+![Casos de uso](https://user-images.githubusercontent.com/81272105/138011951-1477d7e9-2426-40dc-968f-adcb9556e076.JPG)
+
