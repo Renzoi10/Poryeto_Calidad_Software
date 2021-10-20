@@ -75,5 +75,6 @@ Imagen Página Principal Youtube.
 ## CUS_Estadisticas del Canal
 ![image](https://user-images.githubusercontent.com/65270435/138020654-494b63e9-8c5a-4eba-a8b5-cf064297360c.png)
 
-
+## CUS_Ver histoerial de videos
+![image](https://user-images.githubusercontent.com/65270435/138022071-5e14b241-a1df-4fbd-9117-e59b0e14893d.png)
 
