@@ -66,6 +66,9 @@ Imagen Página Principal Youtube.
 ## CUS_Administrar compras y membresias:
 ![image](https://user-images.githubusercontent.com/92272211/138014824-f6042e1a-ac99-4a82-a973-421cb7d1d52c.png)
 
+## CUS_Denunciar video:
+![image](https://user-images.githubusercontent.com/92272211/138014993-dc72e134-653a-4442-afd3-2953c652dd33.png)
+
 
 
 
