@@ -39,3 +39,6 @@ Subir video o Cargar video.
 ![image](https://user-images.githubusercontent.com/81272105/137569076-46ba6274-aad1-4a4c-9702-036007365a4c.png)
 Inicio de Sesion.
 
+
+## Casos de uso:
+![image](https://user-images.githubusercontent.com/92272211/138010403-f598e210-538c-46fb-8113-7cc35f23a63d.png)
