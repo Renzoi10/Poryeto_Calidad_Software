@@ -46,11 +46,5 @@ Imagen Página Principal Youtube.
 - ![image](https://user-images.githubusercontent.com/92272211/138011427-0b1bf2f2-03d0-43a3-882f-2255932fe9b8.png)
 
 
-- ![image](https://user-images.githubusercontent.com/81272105/137569018-e028b140-7c58-4c59-a84d-eb274b84c750.png)
-Subir video o Cargar video.
-
-
-
-
 ## Casos de uso:
 ![image](https://user-images.githubusercontent.com/92272211/138010403-f598e210-538c-46fb-8113-7cc35f23a63d.png)
