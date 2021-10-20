@@ -51,8 +51,14 @@ Imagen Página Principal Youtube.
 ## Casos de uso:
 ![image](https://user-images.githubusercontent.com/92272211/138010403-f598e210-538c-46fb-8113-7cc35f23a63d.png)
 
-## Administracion de Videos:
+## CUS_Administracion de Videos:
 ![Casos de uso](https://user-images.githubusercontent.com/81272105/138012392-574ba4c7-23e2-43e6-ac08-acfea10ecdf1.JPG)
+
+## CUS_Opciones de canal:
+![Caso de uso canal](https://user-images.githubusercontent.com/81272105/138013457-b2d8e5ab-0b64-4e0d-bfe2-cae17772ad39.JPG)
+
+## CUS_Biblioteca:
+![Caso de uso 3 Videos](https://user-images.githubusercontent.com/81272105/138013580-a1a8246b-9d9c-43f8-89de-15a16cb52041.JPG)
 
 
 
