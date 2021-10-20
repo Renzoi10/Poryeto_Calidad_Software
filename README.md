@@ -34,13 +34,16 @@ Imagen Página Principal Youtube.
 - ![image](https://user-images.githubusercontent.com/92272211/138011275-7f1a6b47-67b3-42ae-bcbd-39e5e5ce448a.png)
 
 9. Quitar Suscripción de un Canal
+- ![image](https://user-images.githubusercontent.com/92272211/138011353-ee1988df-72a8-4315-a289-8ad67e9696c2.png)
 
 10. Ver Lista de "Videos que me gustan"
 
 11. Denunciar Video 
+- ![image](https://user-images.githubusercontent.com/92272211/138011410-91269588-b6b5-4940-a215-1d4f1b367917.png)
 
 12. Administrar Compras y Membresías
 
+- ![image](https://user-images.githubusercontent.com/92272211/138011427-0b1bf2f2-03d0-43a3-882f-2255932fe9b8.png)
 
 
 - ![image](https://user-images.githubusercontent.com/81272105/137569018-e028b140-7c58-4c59-a84d-eb274b84c750.png)
