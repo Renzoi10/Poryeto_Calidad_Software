@@ -52,7 +52,7 @@ Imagen Página Principal Youtube.
 ![image](https://user-images.githubusercontent.com/92272211/138010403-f598e210-538c-46fb-8113-7cc35f23a63d.png)
 
 ## Administracion de Videos:
-![Casos de uso](https://user-images.githubusercontent.com/81272105/138012246-246c0de3-990e-4dae-a4d3-255d9153aadf.JPG)
+![Casos de uso](https://user-images.githubusercontent.com/81272105/138012331-1c996774-810a-414c-af9d-5a60200ad1f7.JPG)
 
 
 
