@@ -31,6 +31,7 @@ Imagen Página Principal Youtube.
 7. Añadir Lista de Reproducción
 
 8. Ver Historial de Videos
+- ![image](https://user-images.githubusercontent.com/92272211/138011275-7f1a6b47-67b3-42ae-bcbd-39e5e5ce448a.png)
 
 9. Quitar Suscripción de un Canal
 
